@@ -1,0 +1,91 @@
+﻿body {
+    
+}
+#cuerpo { 
+    
+    background-color:#67A0F1;}
+#agregarPersonas { background-color:gray;
+                       color:white;
+                       text-align :center;
+}
+#Label10 {
+
+    position:relative;
+
+    margin-right:0.5em;
+}
+
+#Label1 { background-color:#000000; 
+}
+#sumar {
+
+    position:relative;
+    margin-right:1EM;
+}
+#Label12 {
+
+    background-color:red;
+}
+#p {
+
+    background-color:red;
+}
+#Label2 { 
+         position: relative;
+          border: 10px;
+          width:300px;
+          height:500px;
+          margin:5em;
+         
+}
+#txtCedula {border: 10px;
+          width:300px;
+          height:500px;
+          margin:0.5em;}
+#Label3 {border: 10px; margin:5em;}
+#Label4 {   margin:5em;
+
+}
+#Label5 { margin:5em;}
+#Label6 {margin:3em ;
+}
+#agregar {margin-left:5em; }
+#cuerpo {padding-bottom:20em;}
+#GridView1 { 
+    position:relative;
+   left:11em;
+   top:1em;
+  
+}
+#dialogo {position:relative;
+          top:2em;
+          text-align:center;
+}
+
+#Label8 {position:relative;
+         text-align:center;
+         margin-left:5em;
+    background-color:#2CDF1B;
+    height: 207px;
+    width: 476px;
+}
+
+#paraconsultar {
+   position:relative;
+left:10em;
+}P
+#consultas { background-color:#09C024;}
+#agregar { background-color:#09C024;}
+#sumar {background-color:#F43E1D;
+    top: 0px;
+    left: -10px;
+    width: 147px;
+}
+#restar { background-color:#2CDF1B;}
+#aceptar {background-color:#09C024; }
+#cancelar {background-color:#09C024;}
+#Consul {}
+#campoSuma {}
+#sumas {}
+#seguro {}
+#Label7 { text-align:center; background-color:#09AD65;}
